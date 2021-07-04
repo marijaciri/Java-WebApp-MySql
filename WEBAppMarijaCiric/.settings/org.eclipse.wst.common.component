@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                    
+    
+    
+    
+    <wb-module deploy-name="WEBAppMarijaCiric">
+                                        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <wb-resource deploy-path="/" source-path="/src/main/WEBAPP"/>
+                                        
+        
+        
+        
+        <property name="java-output-path" value="/WEBAppMarijaCiric/build/classes"/>
+        <property name="context-root" value="WEBAppMarijaCiric"/>
+                                    
+    
+    
+    
+    </wb-module>
+                
+
+
+
+</project-modules>

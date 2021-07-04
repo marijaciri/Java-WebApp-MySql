@@ -1,0 +1,95 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+input{
+	color: #400080;
+	font-family: Verdana;
+	width: 150px;
+	padding: 2px 0px 2px 20px;
+}
+label{
+	width: 220px;
+	padding: 2px 0px 2px 20px;
+	font-family: Verdana;
+	color: #400080;
+	float: left;
+	text-transform: uppercase;
+	text-align: left;
+	
+	}
+select{
+	color: #c0c0c0;
+	font-family: Verdana;
+	width: 170px;
+	padding: 2px 0px 2px 20px;
+	}	
+	
+ul{
+	width: 500px;
+	list-style-type: none;
+	list-style-position: outside;
+	padding: 10px;
+}
+h1{
+	text-align: center;
+	color:#c0c0c0;
+	font-family: Verdana
+}
+ option{
+ 	color: darkgreen;
+	font-family: monospace;
+	width: 150px;
+	padding: 2px 0px 2px 20px;
+ }
+#izbor{
+	color: #00ff40;
+	font-family: Verdana;
+	width: 150px;
+	padding: 2px 0px 2px 20px;
+}
+
+ li{
+	padding: 10px 14px;
+	border-bottom: 1px solid #ddd;
+	position: relative;
+}
+.radioB{
+	border: 1px solid black;
+	background-color: rgb(192, 192, 192);
+}
+form{
+	font-size: 15px;
+}
+.content{
+	 
+     max-width: 700px;
+ 	 margin: auto;
+}
+body {
+  background-color: #76b852; 
+  background-image: url(https://images.unsplash.com/photo-1523568129082-a8d6c095638e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nzl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60)     
+}
+div p, a{
+	
+	font-family: cursive;
+	font-size: 20px;
+	color: #e6ccff;
+}
+.content button {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  background-color:rgb(192, 192, 192);
+  border: none;
+  color: #400080;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+  
+}
+.content button:hover,.form button:active,.form button:focus {
+  background: #8080c0;
+}

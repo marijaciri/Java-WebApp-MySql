@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+input{
+	color: darkgreen;
+	font-family: monospace;
+	width: 150px;
+	padding: 2px 0px 2px 20px;
+}
+label{
+	width: 220px;
+	padding: 2px 0px 2px 20px;
+	font-family: monospace;
+	color: darkgreen;
+	float: left;
+	text-transform: uppercase;
+	text-align: left;
+	
+	}
+select{
+	color: darkgreen;
+	font-family: monospace;
+	width: 170px;
+	padding: 2px 0px 2px 20px;
+	}	
+	
+ul{
+	width: 500px;
+	list-style-type: none;
+	list-style-position: outside;
+	/*margin: 0px;*/
+	padding: 10px;
+}
+h1{
+	text-align: center;
+	color:#c0c0c0;
+	font-family: Verdana
+}
+ option{
+ 	color: darkgreen;
+	font-family: Verdana;
+	width: 150px;
+	padding: 2px 0px 2px 20px;
+ }
+#izobr{
+	color: darkgreen;
+	font-family: Verdana;
+	width: 150px;
+	padding: 2px 0px 2px 20px;
+}
+
+ li{
+	padding: 10px 14px;
+	border-bottom: 1px solid #ddd;
+	position: relative;
+}
+.radioB{
+	border: 1px solid black;
+}
+form{
+	font-size: 15px;
+}
+.content{
+	   max-width: 700px;
+ 	   margin: auto;
+}
+table.center {
+  
+  
+}
+th {
+  text-align: center;
+  outline-color: #400080;
+}
+div p, a{
+	
+	font-family: cursive;
+	font-size: 20px;
+	color: #e6ccff;
+}
+body {
+   background-color: #76b852; 
+   background-image: url(https://images.unsplash.com/photo-1523568129082-a8d6c095638e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nzl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60)  
+      
+}
